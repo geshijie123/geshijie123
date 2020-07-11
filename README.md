@@ -6,11 +6,10 @@
 - linux
 - mybatis
 
-
 ### moto driver +1 🏍🏍🏍
 - gsx
 
-### gamer 
+### gamer +1 ⚡⚡⚡
 - csgo
 - NFS
 <!--
