@@ -1,3 +1,8 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geshijie123&theme=dracula&show_icons=true)](https://github.com/geshijie123)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geshijie123)](https://github.com/geshijie123)
+
+
 ### java coder +1 😄😄😄
 
 - spring
